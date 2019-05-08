@@ -4,7 +4,8 @@ A Cross-platform (requires Chrome) WebBluetoothToOSC bridge for the Sweetzpot Fl
 To use web bluetooth and web osc
 need to install osc-web\
 
-Has certain dependencies, node and socket
+Has certain dependencies, node and socket: <p>
+
 https://nodejs.org/en/
 
 Installation:
