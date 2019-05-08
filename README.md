@@ -6,15 +6,15 @@ need to install osc-web\
 
 Has certain dependencies, node and socket: <p>
 
-https://nodejs.org/en/
+https://nodejs.org/en/ <p>
 
-Installation:
-$ git clone git://github.com/automata/osc-web.git
-$ cd osc-web/
-$ npm install
+Installation:<p>
+$ git clone git://github.com/automata/osc-web.git <p>
+$ cd osc-web/ <p>
+$ npm install <p>
+<p>
+Using: <p>
+$ cd osc-web <p>
+$ node bridge.js <p>
 
-Using:
-$ cd osc-web
-$ node bridge.js
-
-This starts osc-web and must run in the background.
+This starts osc-web and must run in the background.<p>
