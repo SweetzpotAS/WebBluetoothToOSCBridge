@@ -1,5 +1,5 @@
 # WebBluetoothToOSCBridge
-A Cross-platform (requires Chrome) WebBluetoothToOSC bridge for the Sweetzpot Flow sensors developed by Eigil Aandahl of  the RITMO Center of Excellence, University of Oslo
+A Cross-platform (requires Chrome) WebBluetoothToOSC bridge for the Sweetzpot Flow sensors developed by Eigil Aandahl, University of Oslo
 
 To use web bluetooth and web osc
 need to install osc-web\
